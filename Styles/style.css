@@ -62,7 +62,7 @@ h1{
     text-shadow:  0 0 0.2em var(--shadow), 0 0 0.2em var(--shadow);
     text-align: center;
     font-size:  7vw;
-    grid-column: span 2;  
+    margin-bottom: 30px;
 }
 
 p{
